@@ -9,7 +9,6 @@ public class CharDemo {
 
 		char ch = 's';
 		System.out.println(ch);
-		System.out.println(ch);
-	}
+	}	}
 
 }
